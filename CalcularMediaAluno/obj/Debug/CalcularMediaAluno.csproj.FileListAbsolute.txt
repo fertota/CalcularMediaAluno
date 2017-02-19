@@ -1,0 +1,9 @@
+c:\users\ftota\documents\visual studio 2012\Projects\CalcularMediaAluno\CalcularMediaAluno\bin\Debug\CalcularMediaAluno.exe.config
+C:\Users\ftota\Documents\Visual Studio 2012\Projects\CalcularMediaAluno\CalcularMediaAluno\bin\Debug\CalcularMediaAluno.exe
+C:\Users\ftota\Documents\Visual Studio 2012\Projects\CalcularMediaAluno\CalcularMediaAluno\bin\Debug\CalcularMediaAluno.pdb
+C:\Users\ftota\Documents\Visual Studio 2012\Projects\CalcularMediaAluno\CalcularMediaAluno\obj\Debug\CalcularMediaAluno.csprojResolveAssemblyReference.cache
+C:\Users\ftota\Documents\Visual Studio 2012\Projects\CalcularMediaAluno\CalcularMediaAluno\obj\Debug\CalcularMediaAluno.Frm1.resources
+C:\Users\ftota\Documents\Visual Studio 2012\Projects\CalcularMediaAluno\CalcularMediaAluno\obj\Debug\CalcularMediaAluno.Properties.Resources.resources
+C:\Users\ftota\Documents\Visual Studio 2012\Projects\CalcularMediaAluno\CalcularMediaAluno\obj\Debug\CalcularMediaAluno.csproj.GenerateResource.Cache
+C:\Users\ftota\Documents\Visual Studio 2012\Projects\CalcularMediaAluno\CalcularMediaAluno\obj\Debug\CalcularMediaAluno.exe
+C:\Users\ftota\Documents\Visual Studio 2012\Projects\CalcularMediaAluno\CalcularMediaAluno\obj\Debug\CalcularMediaAluno.pdb
